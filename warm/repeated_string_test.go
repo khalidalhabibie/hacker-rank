@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func BenchmarkRepeatedString(b *testing.B) {
+func benchmarkRepeatedString(b *testing.B) {
 	stringX := "asjljfrjepjfperjgpjerpg"
 
 	for i := 0; i < b.N; i++ {
@@ -13,7 +13,7 @@ func BenchmarkRepeatedString(b *testing.B) {
 
 }
 
-func TestRepeatedString(t *testing.T) {
+func testRepeatedString(t *testing.T) {
 
 	var n int64
 	var want int64
