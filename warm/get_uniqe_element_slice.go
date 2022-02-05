@@ -16,13 +16,9 @@ func GetUniqeElementSlice(slices ...[]string) []string {
 
 	}
 
-	// get new keys
+	// get new keys and append
 	result := []string{}
-
-	for _, key := range newSlice {
-		result = append(result, key)
-
-	}
+	result = append(result, newSlice...)
 
 	return result
 

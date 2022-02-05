@@ -1,0 +1,26 @@
+mode: set
+hacker_rank/warm/jumping_on_clouds.go:3.38,8.31 3 1
+hacker_rank/warm/jumping_on_clouds.go:18.2,18.16 1 1
+hacker_rank/warm/jumping_on_clouds.go:8.31,9.40 1 1
+hacker_rank/warm/jumping_on_clouds.go:9.40,12.4 2 1
+hacker_rank/warm/jumping_on_clouds.go:12.9,15.4 2 1
+hacker_rank/warm/my_country_is.go:20.72,25.27 2 1
+hacker_rank/warm/my_country_is.go:31.2,33.23 2 1
+hacker_rank/warm/my_country_is.go:43.2,43.15 1 1
+hacker_rank/warm/my_country_is.go:25.27,28.3 1 1
+hacker_rank/warm/my_country_is.go:33.23,41.3 2 1
+hacker_rank/warm/repeated_string.go:7.46,15.24 3 1
+hacker_rank/warm/repeated_string.go:22.2,30.20 4 1
+hacker_rank/warm/repeated_string.go:42.2,42.15 1 1
+hacker_rank/warm/repeated_string.go:15.24,16.23 1 1
+hacker_rank/warm/repeated_string.go:16.23,18.4 1 1
+hacker_rank/warm/repeated_string.go:30.20,33.29 2 1
+hacker_rank/warm/repeated_string.go:33.29,34.28 1 1
+hacker_rank/warm/repeated_string.go:34.28,36.5 1 1
+hacker_rank/warm/get_uniqe_element_slice.go:3.56,9.24 3 1
+hacker_rank/warm/get_uniqe_element_slice.go:14.2,14.26 1 1
+hacker_rank/warm/get_uniqe_element_slice.go:20.2,22.31 2 1
+hacker_rank/warm/get_uniqe_element_slice.go:27.2,27.15 1 1
+hacker_rank/warm/get_uniqe_element_slice.go:9.24,12.3 1 1
+hacker_rank/warm/get_uniqe_element_slice.go:14.26,17.3 1 1
+hacker_rank/warm/get_uniqe_element_slice.go:22.31,25.3 1 1
